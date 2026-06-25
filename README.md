@@ -19,4 +19,4 @@ Built to help students manage internship search and applications in a structured
 [https://internship-launch.lovable.app/]
 
 ## 📂 Repository
-[GitHub repo link]
+[https://github.com/Tanmay1538/internship-connect-hub]
